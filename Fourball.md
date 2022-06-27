@@ -13,7 +13,9 @@ The _ball_ should be medium size and weight, such as as a volleyball, soccer bal
 Designate at least one _starting point_, usually at the far end of the field boundary.
 
 ## Offense
-Use a random method to decide who the first _ball carrier_ will be. The first ball carrier takes the ball to the starting point, and the other players must touch one of the chairs until the ball carrier leaves the starting point. There is a 5-second time limit between when all players are in position and when the ball carrier must leave the starting point. If the ball carrier exceeds this, the ball is give to the next player in the rotation. 
+Use a random method to decide who the first _ball carrier_ will be. The first ball carrier takes the ball to the starting point, and the other players must touch one of the chairs until the ball carrier leaves the starting point. 
+
+There is a 5-second time limit between when all players are in position and when the ball carrier must leave the starting point. If the ball carrier exceeds this, the ball is give to the next player in the rotation. 
 
 ### Scoring Points
 The object of the game is to score the most points, and the first to score the _points to victory_ wins. A point is scored when a player causes the ball to touch the bottom of the basket. A player who does this receives a point regardless of whether the ball bounces out of the basket or moves the basket. A player does not receive a point if the ball touches only the sides of the basket. 
@@ -21,6 +23,8 @@ The object of the game is to score the most points, and the first to score the _
 If a player intentionally deflects the ball and it touches the bottom of the basket, the player who deflected the ball receives a point. If the deflection was unintentional, the point is given to the last player who had possession of the ball. 
 
 Players may move the ball by any means, including holding, running, throwing, bouncing, or kicking the ball. Players may stand or climb on the chairs to shoot or block the ball.
+
+After a point is scored, the next player in the rotation after the player who scored receives the ball.  The new ball carrier goes to the starting point and the other players must touch chairs until the ball carrier leaves the starting point.  
 
 ## Defense
 The other two players may stop the ball carrier by any means except those prohibited by Foul Rules (see below). This includes blocking the ball carrier or taking the ball their hands. Grabbing or restraining other players is not allowed. 
@@ -47,7 +51,7 @@ If the ball is loose (i.e., not in anyone’s possession), players may make phys
 ## Fouls
 Fouls are given to discourage certain playing behavior. If a player acquires two fouls, their score is reduced by one point. A player’s score can become negative due to fouls. Fouls are given for the following reasons:
 
-1. If the ball carrier shoots the ball from the outer court and another player blocks it from the inner court, the blocking player receives a foul. When jumping, the player’s location is determined by the place from which he jumped (i.e., the last place his feet touched the ground). If both the ball carrier and the player are inside, no fouls are given.
+1. If the ball carrier shoots the ball from the outer court and another player blocks it from the inner court, the blocking player receives a foul. When jumping, the player’s location is determined by the place from which they jumped (i.e., the last place their feet touched the ground). If both the ball carrier and the player are inside, no fouls are given.
 
 2. If the ball goes out of bounds, the last player who touched it receives a foul and must retrieve the ball. The next player in the rotation becomes the new ball carrier. They begin play by checking the ball from the point where it went out of bounds. 
 
@@ -55,7 +59,7 @@ Fouls are given to discourage certain playing behavior. If a player acquires two
 
 4. If a player jumps, runs, or moves their body over the basket in any way that could have been avoided, that player receives a foul. A player does not receive a foul if they moves over the basket in a way that could not have been avoided (e.g., being knocked over). A player blocking with only their hands or arms over or in front of the basket does not receive this foul.
 
-5. If a player intentionally kicks the basket they receives a foul. Because this action deprives the ball carrier of a goal, the ball carrier is given a foul shot. For a foul shot, the ball carrier stands within arms’ length of a starting point, and the other two players must each be touching a chair with both hands. The ball carrier shoots the ball. The ball carrier may not take a step and the other two players may not remove their hands from the chairs until the ball touches the basket, the ground, a chair, or one of the players. 
+5. If a player intentionally kicks the basket they receive a foul. Because this action deprives the ball carrier of a goal, the ball carrier is given a foul shot. For a foul shot, the ball carrier stands within arms’ length of a starting point, and the other two players must each be touching a chair with both hands. The ball carrier shoots the ball. The ball carrier may not take a step and the other two players may not remove their hands from the chairs until the ball touches the basket, the ground, a chair, or one of the players. 
 
 ---
 
