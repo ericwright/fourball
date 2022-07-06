@@ -63,4 +63,4 @@ Fouls are given to discourage certain playing behavior. If a player acquires two
 
 ---
 
-Version 2022.06
+Version 2022.07
