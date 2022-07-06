@@ -1,10 +1,10 @@
 # Fourball
-The game of Fourball was invented by Steven Anderson, Drew Sleezer, Rob Sleezer, and Eric Wright in the mid 1990s. It was first played in the Sleezer backyard in Stillwater Oklahoma.
+The game of Fourball was invented by Steven Anderson, Drew Sleezer, Rob Sleezer, and Eric Wright in the mid 1990s. It was first played in the Sleezer backyard in Stillwater, Oklahoma.
 
 ## Setup 
 Fourball is played with three players on a level grassy _field_. Decide the boundary of the field - beyond this is _out of bounds_. Decide the number of _points to victory_ and the _order of players_ (note that with three players, there are only two possible orders, ABC and ACB).
 
-Set the _basket_ in the center of the field. The basket is a medium-sized container such as a laundry basket, Rubbermaid tub, or a cardboard box. 
+The _basket_ is a medium-sized container such as a laundry basket, Rubbermaid tub, or a cardboard box.  Set the basket in the center of the field. 
 
 Set four _chairs_ in a square around the basket. The inside corners of these chairs mark the _inner court_. The width of the inner court should be at least 3 times the width of the widest side of the basket. The remainder of the field is the _outer court_. 
 
@@ -18,7 +18,7 @@ Use a random method to decide who the first _ball carrier_ will be. The first ba
 There is a 5-second time limit between when all players are in position and when the ball carrier must leave the starting point. If the ball carrier exceeds this, the ball is give to the next player in the rotation. 
 
 ### Scoring Points
-The object of the game is to score the most points, and the first to score the _points to victory_ wins. A point is scored when a player causes the ball to touch the bottom of the basket. A player who does this receives a point regardless of whether the ball bounces out of the basket or moves the basket. A player does not receive a point if the ball touches only the sides of the basket. 
+The object of the game is to score the most points, and the first to score the _points to victory_ wins. A point is scored when a player causes the ball to touch the bottom of the basket. A player who does this receives a point regardless of whether the ball bounces out of the basket or moves the basket. A player does not receive a point if the ball touches only the sides of the basket.  The point still counts if the ball first bounces off the ground or a chair before the bottom of the basket.
 
 If a player intentionally deflects the ball and it touches the bottom of the basket, the player who deflected the ball receives a point. If the deflection was unintentional, the point is given to the last player who had possession of the ball. 
 
@@ -31,7 +31,7 @@ The other two players may stop the ball carrier by any means except those prohib
 
 
 ### Downing
-The most common and effective defensive tactic is to _down_ the ball carrier by touching the ball carrier with both hand below the waist at the same time ("two-below"). It is customary for the defender to call "down" when they do this. When the ball carrier is downed, play stops and the player who downed the ball carrier receives the ball at the location where the down occurred.
+The most common and effective defensive tactic is to _down_ the ball carrier by touching the ball carrier with both hands below the waist at the same time ("two-below"). It is customary for the defender to call "down" when they do this. When the ball carrier is downed, play stops and the player who downed the ball carrier receives the ball at the location where the down occurred.
 
 The ball carrier may be downed only when they are holding the ball. If the player tosses the ball into the air or is otherwise not holding the ball when a player touches them with two hands, the down doesn't count. It is common for the ball carrier to avoid a down by tossing the ball when a defender tries to down them. 
 
